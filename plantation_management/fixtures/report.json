@@ -1,1 +1,292 @@
-[]
+[
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 04:13:06.717510",
+  "module": "Plantation Management",
+  "name": "Plantation Summary Report",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Plantation Record",
+  "reference_report": null,
+  "report_name": "Plantation Summary Report",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Township Administrator"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 04:18:56.891229",
+  "module": "Plantation Management",
+  "name": "Plantation Summary",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Plantation Record",
+  "reference_report": null,
+  "report_name": "Plantation Summary",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Township Administrator"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 08:16:16.108180",
+  "module": "Plantation Management",
+  "name": "Pest Distribution",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Pest",
+  "reference_report": null,
+  "report_name": "Pest Distribution",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Township Administrator"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 10:25:52.275072",
+  "module": "Plantation Management",
+  "name": "Plantation Summary By Year Of Establishment",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Plantation Record",
+  "reference_report": null,
+  "report_name": "Plantation Summary By Year Of Establishment",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 07:26:09.773094",
+  "module": "Plantation Management",
+  "name": "Maintenance Work Done By Fiscal Year Breakdown",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Annual Plantation Update",
+  "reference_report": null,
+  "report_name": "Maintenance Work Done By Fiscal Year Breakdown",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Township Administrator"
+   },
+   {
+    "role": "Township Administrator"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 06:32:35.482984",
+  "module": "Plantation Management",
+  "name": "Maintenance Work Done By Fiscal year",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Annual Plantation Update",
+  "reference_report": null,
+  "report_name": "Maintenance Work Done By Fiscal year",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Township Administrator"
+   },
+   {
+    "role": "Township Administrator"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 15:56:23.265717",
+  "module": "Plantation Management",
+  "name": "Damage Summary by Fiscal Year",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Pest",
+  "reference_report": null,
+  "report_name": "Damage Summary by Fiscal Year",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Township Administrator"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 05:18:49.582136",
+  "module": "Plantation Management",
+  "name": "Plantation Summary Without Subtotal",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Plantation Record",
+  "reference_report": null,
+  "report_name": "Plantation Summary Without Subtotal",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Township Administrator"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-11-13 14:33:48.513259",
+  "module": "Plantation Management",
+  "name": "Disease Distribution",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Annual Plantation Update",
+  "reference_report": null,
+  "report_name": "Disease Distribution",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Township Administrator"
+   },
+   {
+    "role": "Township Administrator"
+   }
+  ],
+  "timeout": 0
+ }
+]
