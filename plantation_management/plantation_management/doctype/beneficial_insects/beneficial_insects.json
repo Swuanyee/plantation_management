@@ -1,0 +1,153 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{english_pest_name}-{burmese_pest_name}",
+ "creation": "2025-11-25 12:57:10.852769",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "english_pest_name",
+  "burmese_pest_name",
+  "column_break_pulk",
+  "section_break_azzz",
+  "appearance",
+  "appearance_burmese",
+  "column_break_vijl",
+  "life_cycle",
+  "life_cycle_burmese",
+  "section_break_cbpm",
+  "predatory_habit",
+  "predatory_habit_burmese",
+  "column_break_bxja",
+  "section_break_dknw",
+  "observed_location",
+  "section_break_mpuc",
+  "pest_image"
+ ],
+ "fields": [
+  {
+   "fieldname": "english_pest_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u1021\u1004\u103a\u1039\u1002\u101c\u102d\u1015\u103a\u1021\u1019\u100a\u103a",
+   "reqd": 1
+  },
+  {
+   "fieldname": "burmese_pest_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u1019\u103c\u1014\u103a\u1019\u102c\u1021\u1019\u100a\u103a",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_pulk",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_azzz",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "appearance",
+   "fieldtype": "Text Editor",
+   "label": "Appearance"
+  },
+  {
+   "fieldname": "appearance_burmese",
+   "fieldtype": "Text Editor",
+   "label": "Appearance (Burmese)"
+  },
+  {
+   "fieldname": "column_break_vijl",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "life_cycle",
+   "fieldtype": "Text Editor",
+   "label": "Life Cycle"
+  },
+  {
+   "fieldname": "life_cycle_burmese",
+   "fieldtype": "Text Editor",
+   "label": "Life Cycle (Burmese)"
+  },
+  {
+   "fieldname": "section_break_cbpm",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "predatory_habit",
+   "fieldtype": "Text Editor",
+   "label": "Predatory Habit"
+  },
+  {
+   "fieldname": "predatory_habit_burmese",
+   "fieldtype": "Text Editor",
+   "label": "Predatory Habit (Burmese)"
+  },
+  {
+   "fieldname": "column_break_bxja",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_dknw",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "observed_location",
+   "fieldtype": "Table",
+   "label": "Observed Location",
+   "options": "Child Observed Location"
+  },
+  {
+   "fieldname": "section_break_mpuc",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "pest_image",
+   "fieldtype": "Table",
+   "label": "Pest Image",
+   "options": "Child Pest Image"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-11-25 13:03:42.519498",
+ "modified_by": "Administrator",
+ "module": "Plantation Management",
+ "name": "Beneficial Insects",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Township Administrator",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}

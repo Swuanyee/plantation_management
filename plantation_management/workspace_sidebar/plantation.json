@@ -1,0 +1,39 @@
+{
+ "app": "plantation_management",
+ "creation": "2025-11-25 09:28:12.974943",
+ "docstatus": 0,
+ "doctype": "Workspace Sidebar",
+ "header_icon": "chart-line",
+ "idx": 0,
+ "items": [
+  {
+   "child": 0,
+   "collapsible": 1,
+   "creation": "2025-11-25 09:28:12.974943",
+   "docstatus": 0,
+   "doctype": "Workspace Sidebar Item",
+   "icon": "chart-line",
+   "idx": 1,
+   "indent": 0,
+   "keep_closed": 0,
+   "label": "Plantation",
+   "link_to": "Plantation",
+   "link_type": "Workspace",
+   "modified": "2025-11-25 09:28:12.974943",
+   "modified_by": "Administrator",
+   "name": "45h03jgsqh",
+   "owner": "Administrator",
+   "parent": "Plantation",
+   "parentfield": "items",
+   "parenttype": "Workspace Sidebar",
+   "show_arrow": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-11-25 09:28:12.974943",
+ "modified_by": "Administrator",
+ "module": "Custom",
+ "name": "Plantation",
+ "owner": "Administrator",
+ "title": "Plantation"
+}
