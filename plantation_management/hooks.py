@@ -35,6 +35,3 @@ fixtures = [
     }
 ]
 
-
-# Define the home page
-#get_home_page = "plantation_management.api.get_home_page"
