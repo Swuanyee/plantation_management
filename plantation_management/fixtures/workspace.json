@@ -452,7 +452,7 @@
   "external_link": null,
   "for_user": "",
   "hide_custom": 1,
-  "icon": "chart-line",
+  "icon": "today",
   "indicator_color": "green",
   "is_hidden": 0,
   "label": "Plantation",
@@ -805,7 +805,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-11-29 00:59:23.996020",
+  "modified": "2025-11-29 01:03:57.463632",
   "module": "Custom",
   "name": "Plantation",
   "number_cards": [],
@@ -824,7 +824,7 @@
     "role": "Administrator"
    }
   ],
-  "sequence_id": 2.0,
+  "sequence_id": 1.0,
   "shortcuts": [
    {
     "color": "Grey",
