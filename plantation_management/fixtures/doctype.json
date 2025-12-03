@@ -79,6 +79,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -139,6 +140,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -199,6 +201,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -259,6 +262,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -319,6 +323,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -379,12 +384,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -401,8 +408,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:00.524398",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.038586",
   "module": "Plantation Management",
   "name": "Fiscal Year",
   "naming_rule": "Expression",
@@ -447,11 +454,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -550,6 +561,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -610,6 +622,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -670,12 +683,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -692,18 +707,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:00.735244",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.064327",
   "module": "Plantation Management",
   "name": "Child Map Table",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -802,6 +821,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -862,6 +882,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -922,6 +943,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -982,6 +1004,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1042,12 +1065,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -1064,18 +1089,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:00.910543",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.097659",
   "module": "Plantation Management",
   "name": "Child Map With Notes",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -1174,6 +1203,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1234,6 +1264,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1294,6 +1325,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1354,6 +1386,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1414,6 +1447,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1433,7 +1467,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "rate_used",
-    "fieldtype": "Data",
+    "fieldtype": "Int",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -1474,6 +1508,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1534,6 +1569,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1553,7 +1589,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "total_expenditure",
-    "fieldtype": "Data",
+    "fieldtype": "Int",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -1594,6 +1630,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -1654,12 +1691,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -1676,18 +1715,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:01.087352",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:51:41.115861",
   "module": "Plantation Management",
   "name": "Child Plantation Maintenance",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -1786,12 +1829,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -1808,8 +1853,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:01.286709",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.151848",
   "module": "Plantation Management",
   "name": "Maintenace Work",
   "naming_rule": "Expression",
@@ -1854,11 +1899,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -1957,6 +2006,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2017,6 +2067,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2036,7 +2087,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "area_of_destruction",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -2063,7 +2114,7 @@
     "options": null,
     "permlevel": 0,
     "placeholder": null,
-    "precision": "",
+    "precision": "1",
     "print_hide": 0,
     "print_hide_if_no_value": 0,
     "print_width": null,
@@ -2077,6 +2128,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2137,6 +2189,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2197,6 +2250,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2257,12 +2311,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -2279,18 +2335,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:01.470403",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:56:19.661126",
   "module": "Plantation Management",
   "name": "Child Destruction Table",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -2389,6 +2449,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2449,6 +2510,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2509,6 +2571,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2569,6 +2632,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2629,6 +2693,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2689,6 +2754,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2749,6 +2815,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2809,6 +2876,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2869,6 +2937,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2929,6 +2998,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -2989,12 +3059,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -3011,8 +3083,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:01.902318",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.244062",
   "module": "Plantation Management",
   "name": "Plantation Rehab",
   "naming_rule": "",
@@ -3057,11 +3129,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -3160,6 +3236,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3220,6 +3297,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3280,6 +3358,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3340,6 +3419,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3400,6 +3480,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3460,6 +3541,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3520,6 +3602,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3580,6 +3663,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3640,6 +3724,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3700,6 +3785,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3760,6 +3846,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3820,6 +3907,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3880,6 +3968,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -3940,6 +4029,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4000,6 +4090,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4060,6 +4151,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4120,6 +4212,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4180,6 +4273,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4240,6 +4334,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4300,6 +4395,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4360,6 +4456,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4420,12 +4517,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -4442,8 +4541,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:02.230736",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.281488",
   "module": "Plantation Management",
   "name": "Pest",
   "naming_rule": "Expression",
@@ -4488,11 +4587,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -4591,6 +4694,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4651,6 +4755,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4711,6 +4816,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4771,6 +4877,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -4831,12 +4938,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -4853,18 +4962,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:02.418326",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.307224",
   "module": "Plantation Management",
   "name": "Child Pest Host Range",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -4963,6 +5076,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5023,6 +5137,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5083,6 +5198,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5143,6 +5259,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5203,6 +5320,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5263,6 +5381,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5323,6 +5442,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5383,6 +5503,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5443,12 +5564,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -5465,18 +5588,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:02.618426",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.336172",
   "module": "Plantation Management",
   "name": "Child Observed Location",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -5575,6 +5702,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5635,6 +5763,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5695,6 +5824,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5755,6 +5885,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -5815,12 +5946,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -5837,18 +5970,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:02.800528",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.363683",
   "module": "Plantation Management",
   "name": "Child Pest Image",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -5947,6 +6084,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6007,6 +6145,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6067,6 +6206,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6127,6 +6267,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6187,6 +6328,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6247,6 +6389,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6307,6 +6450,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6367,6 +6511,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6427,6 +6572,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6487,12 +6633,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -6509,8 +6657,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:02.991700",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.394801",
   "module": "Plantation Management",
   "name": "Scientific Name Material List",
   "naming_rule": "Expression",
@@ -6555,11 +6703,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -6658,6 +6810,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6718,6 +6871,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6778,6 +6932,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6838,6 +6993,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6898,6 +7054,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -6958,6 +7115,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7018,6 +7176,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7078,6 +7237,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7138,6 +7298,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7198,6 +7359,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7258,6 +7420,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7318,6 +7481,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7378,6 +7542,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7438,6 +7603,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7498,6 +7664,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7558,6 +7725,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7618,6 +7786,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7678,6 +7847,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7738,12 +7908,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -7760,8 +7932,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:03.290449",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.434714",
   "module": "Plantation Management",
   "name": "Disease",
   "naming_rule": "Expression",
@@ -7806,11 +7978,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -7909,6 +8085,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -7928,7 +8105,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "area_of_destruction",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -7955,7 +8132,7 @@
     "options": null,
     "permlevel": 0,
     "placeholder": null,
-    "precision": "",
+    "precision": "1",
     "print_hide": 0,
     "print_hide_if_no_value": 0,
     "print_width": null,
@@ -7969,6 +8146,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8029,6 +8207,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8089,6 +8268,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8149,6 +8329,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8209,6 +8390,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8269,12 +8451,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -8291,18 +8475,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:03.519527",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:55:50.400254",
   "module": "Plantation Management",
   "name": "Child Pest Destruction Table",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -8401,6 +8589,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8420,7 +8609,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "area_of_destruction",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -8447,7 +8636,7 @@
     "options": "",
     "permlevel": 0,
     "placeholder": null,
-    "precision": "",
+    "precision": "1",
     "print_hide": 0,
     "print_hide_if_no_value": 0,
     "print_width": null,
@@ -8461,6 +8650,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8521,6 +8711,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8581,6 +8772,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8641,6 +8833,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8701,6 +8894,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8761,12 +8955,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -8783,18 +8979,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:03.754577",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:55:29.949414",
   "module": "Plantation Management",
   "name": "Child Disease Destruction Table",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -8893,6 +9093,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -8953,6 +9154,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9013,6 +9215,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9073,6 +9276,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9133,12 +9337,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -9155,8 +9361,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:03.941280",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.517856",
   "module": "Plantation Management",
   "name": "Organisation Name",
   "naming_rule": "Expression",
@@ -9201,11 +9407,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -9304,6 +9514,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9364,6 +9575,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9424,6 +9636,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9484,6 +9697,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9544,6 +9758,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9563,7 +9778,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "applied_area",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -9590,7 +9805,7 @@
     "options": null,
     "permlevel": 0,
     "placeholder": null,
-    "precision": "",
+    "precision": "1",
     "print_hide": 0,
     "print_hide_if_no_value": 0,
     "print_width": null,
@@ -9604,6 +9819,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9664,6 +9880,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9724,6 +9941,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9784,6 +10002,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9844,6 +10063,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -9904,12 +10124,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -9926,18 +10148,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:04.139616",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:50:55.065698",
   "module": "Plantation Management",
   "name": "Child Private Owned Plantation Details",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -9995,7 +10221,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "area_returned",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -10022,7 +10248,7 @@
     "options": null,
     "permlevel": 0,
     "placeholder": null,
-    "precision": "",
+    "precision": "1",
     "print_hide": 0,
     "print_hide_if_no_value": 0,
     "print_width": null,
@@ -10036,6 +10262,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -10096,6 +10323,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -10156,6 +10384,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -10216,12 +10445,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -10238,18 +10469,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:04.307862",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:50:25.372780",
   "module": "Plantation Management",
   "name": "Child Return of Plantation Land",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -10307,7 +10542,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "area_reposessed",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -10334,7 +10569,7 @@
     "options": null,
     "permlevel": 0,
     "placeholder": null,
-    "precision": "",
+    "precision": "1",
     "print_hide": 0,
     "print_hide_if_no_value": 0,
     "print_width": null,
@@ -10348,6 +10583,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -10408,6 +10644,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -10468,6 +10705,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -10528,6 +10766,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -10588,12 +10827,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -10610,18 +10851,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:04.464913",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:50:37.779291",
   "module": "Plantation Management",
   "name": "Child Reposession of Plantation Land",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -10720,12 +10965,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -10742,8 +10989,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:04.651133",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.617949",
   "module": "Plantation Management",
   "name": "Reserve",
   "naming_rule": "Expression",
@@ -10788,11 +11035,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -10891,6 +11142,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -10951,6 +11203,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11011,6 +11264,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11071,6 +11325,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11131,6 +11386,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11191,6 +11447,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11251,6 +11508,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11311,6 +11569,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11371,12 +11630,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -11393,8 +11654,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:04.937815",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.647706",
   "module": "Plantation Management",
   "name": "Township Data",
   "naming_rule": "Expression",
@@ -11439,11 +11700,15 @@
     "write": 0
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -11542,6 +11807,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11602,6 +11868,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11662,6 +11929,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11722,6 +11990,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11782,6 +12051,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11842,6 +12112,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11902,6 +12173,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -11962,6 +12234,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12022,6 +12295,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12082,6 +12356,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12142,6 +12417,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12202,6 +12478,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12262,6 +12539,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12322,6 +12600,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12382,6 +12661,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12442,6 +12722,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12502,6 +12783,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12562,6 +12844,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12622,6 +12905,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12682,6 +12966,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12742,6 +13027,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12802,6 +13088,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12862,6 +13149,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12922,6 +13210,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -12982,6 +13271,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13042,6 +13332,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13102,6 +13393,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13121,7 +13413,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "total_area",
-    "fieldtype": "Data",
+    "fieldtype": "Int",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -13162,6 +13454,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13181,7 +13474,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "total_plant",
-    "fieldtype": "Data",
+    "fieldtype": "Int",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -13222,6 +13515,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13282,6 +13576,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13342,6 +13637,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13402,6 +13698,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13462,6 +13759,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13522,6 +13820,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13582,6 +13881,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13642,6 +13942,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13702,6 +14003,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13762,6 +14064,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13822,6 +14125,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13882,6 +14186,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -13942,6 +14247,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14002,6 +14308,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14062,6 +14369,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14122,12 +14430,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -14144,8 +14454,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:05.259860",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:43:06.095466",
   "module": "Plantation Management",
   "name": "Plantation Record",
   "naming_rule": "Expression",
@@ -14190,11 +14500,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -14293,12 +14607,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -14315,8 +14631,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:05.401684",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.723845",
   "module": "Plantation Management",
   "name": "Plantation Types",
   "naming_rule": "Expression",
@@ -14361,11 +14677,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -14464,6 +14784,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14524,6 +14845,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14543,7 +14865,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "no_of_plants",
-    "fieldtype": "Data",
+    "fieldtype": "Int",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -14584,6 +14906,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14644,6 +14967,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14663,7 +14987,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "acre",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -14690,7 +15014,7 @@
     "options": null,
     "permlevel": 0,
     "placeholder": null,
-    "precision": "",
+    "precision": "1",
     "print_hide": 0,
     "print_hide_if_no_value": 0,
     "print_width": null,
@@ -14704,6 +15028,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14764,6 +15089,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14824,6 +15150,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14884,6 +15211,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -14903,7 +15231,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "survival_percentage",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -14944,6 +15272,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15004,12 +15333,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -15026,18 +15357,22 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:05.600707",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:54:13.768910",
   "module": "Plantation Management",
   "name": "Species Child Table",
   "naming_rule": "",
   "nsm_parent_field": null,
   "permissions": [],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -15136,6 +15471,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15196,6 +15532,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15256,12 +15593,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -15278,8 +15617,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:05.768770",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.785058",
   "module": "Plantation Management",
   "name": "Plant Distance",
   "naming_rule": "Expression",
@@ -15324,11 +15663,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -15427,12 +15770,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -15449,8 +15794,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:05.927777",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 15:37:41.809994",
   "module": "Plantation Management",
   "name": "Material List",
   "naming_rule": "Expression",
@@ -15495,11 +15840,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,
@@ -15598,6 +15947,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15658,6 +16008,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15718,6 +16069,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15778,6 +16130,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15838,6 +16191,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15898,6 +16252,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -15958,6 +16313,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16018,6 +16374,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16078,6 +16435,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16138,6 +16496,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16198,6 +16557,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16258,6 +16618,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16318,6 +16679,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16378,6 +16740,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16438,6 +16801,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16498,6 +16862,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16558,6 +16923,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16618,6 +16984,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16637,7 +17004,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "total_area",
-    "fieldtype": "Data",
+    "fieldtype": "Int",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -16678,6 +17045,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16738,6 +17106,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16757,7 +17126,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "total_plant",
-    "fieldtype": "Data",
+    "fieldtype": "Int",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -16798,6 +17167,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16858,6 +17228,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16877,7 +17248,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "survival_percentage",
-    "fieldtype": "Data",
+    "fieldtype": "Float",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -16904,7 +17275,7 @@
     "options": null,
     "permlevel": 0,
     "placeholder": null,
-    "precision": "",
+    "precision": "2",
     "print_hide": 0,
     "print_hide_if_no_value": 0,
     "print_width": null,
@@ -16918,6 +17289,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -16978,6 +17350,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17038,6 +17411,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17098,6 +17472,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17158,6 +17533,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17218,6 +17594,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17278,6 +17655,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17338,6 +17716,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17398,6 +17777,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17458,6 +17838,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17518,6 +17899,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17578,6 +17960,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17638,6 +18021,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17698,6 +18082,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17758,6 +18143,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17818,6 +18204,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17878,6 +18265,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17897,7 +18285,7 @@
     "fetch_from": null,
     "fetch_if_empty": 0,
     "fieldname": "data_entry_date",
-    "fieldtype": "Data",
+    "fieldtype": "Date",
     "hidden": 0,
     "hide_border": 0,
     "hide_days": 0,
@@ -17938,6 +18326,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -17998,6 +18387,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -18058,6 +18448,7 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
@@ -18118,12 +18509,14 @@
     "show_dashboard": 0,
     "show_on_timeline": 0,
     "sort_options": 0,
+    "sticky": 0,
     "translatable": 0,
     "unique": 0,
     "width": null
    }
   ],
   "force_re_route_to_default_view": 0,
+  "grid_page_length": 0,
   "has_web_view": 0,
   "hide_toolbar": 0,
   "icon": null,
@@ -18140,8 +18533,8 @@
   "links": [],
   "make_attachments_public": 0,
   "max_attachments": 0,
-  "migration_hash": "d6571a9014c41890b733c0568444879a",
-  "modified": "2025-12-01 11:23:06.326967",
+  "migration_hash": "042c67abab17819afa03217cad3d7597",
+  "modified": "2025-11-30 22:24:55.023185",
   "module": "Plantation Management",
   "name": "Annual Plantation Update",
   "naming_rule": "Expression",
@@ -18186,11 +18579,15 @@
     "write": 1
    }
   ],
+  "protect_attached_files": 0,
   "queue_in_background": 0,
   "quick_entry": 0,
   "read_only": 0,
+  "recipient_account_field": null,
   "restrict_to_domain": null,
   "route": null,
+  "row_format": "Dynamic",
+  "rows_threshold_for_grid_search": 0,
   "search_fields": null,
   "sender_field": null,
   "sender_name_field": null,

@@ -36,6 +36,7 @@ fixtures = [
 ]
 
 app_include_js = [
-    "/assets/plantation_management/js/burmese_dates.js"
+    "/assets/plantation_management/js/burmese_dates.js",
+    "/assets/plantation_management/js/burmese_numbers.js"
 ]
 
